@@ -11,7 +11,7 @@ A simple Android application that allows users to search for stock information b
 
 ## Screenshots
 
-<img src=""C:\Users\user\Desktop\screenshot.jpg"" alt="Stock Search Screenshot" width="300"/>
+<img src="C:\Users\user\Desktop\screenshot.jpg" alt="Stock Search Screenshot" width="300"/>
 
 ## Technologies Used
 
