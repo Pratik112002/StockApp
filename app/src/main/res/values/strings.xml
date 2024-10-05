@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stock App</string>
+    <string name="company_name">Company Name:</string>
+    <string name="percentage_change">Percentage Change:</string>
+    <string name="search">Search</string>
+    <string name="stock_price">Stock Price:</string>
+    <string name="enter_stock_symbol">Enter Stock Symbol</string>
+</resources>
